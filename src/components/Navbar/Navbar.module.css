@@ -5,9 +5,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 61px;
+  padding-top: 61px;
   z-index: 2;
   margin: 0 10%;
+}
+
+.menuBtn {
+  cursor: pointer;
 }
 
 .title {
@@ -68,5 +72,10 @@
     );
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .menuOpen {
+    display: flex;
+    z-index: 1;
   }
 }
