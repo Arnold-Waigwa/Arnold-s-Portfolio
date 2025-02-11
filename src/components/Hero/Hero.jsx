@@ -8,8 +8,8 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Arnold</h1>
         <p className={styles.description}>
-          I'm a passionate Software Engineer and Computer Science major at
-          Albion College, graduating in May 2026. With a focus on Artificial
+          A passionate Software Engineer and Computer Science major at Albion
+          College, graduating in May 2026. With a focus on Artificial
           Intelligence, Machine Learning, and Software Development, I love
           building impactful tech solutions and contributing to the open-source
           community. I am also minoring in Applied Mathematics, which helps me
