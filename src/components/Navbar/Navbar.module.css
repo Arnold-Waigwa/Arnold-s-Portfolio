@@ -11,7 +11,7 @@
 }
 
 .menuBtn {
-  cursor: pointer;
+  display: none;
 }
 
 .title {
