@@ -18,8 +18,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience building optimized
-                sites
+                I'm a frontend developer skilled in creating optimized websites.
               </p>
             </div>
           </li>
@@ -28,8 +27,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimized backend systems
-                and APIs
+                I have experience building efficient and high-performance
+                backend systems and APIs.
               </p>
             </div>
           </li>
@@ -38,9 +37,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Artificial Intelligence</h3>
               <p>
-                I'm have studied Artificial Intelligence and Machine Learning
-                intricately and have had experience develop intuitive and
-                optimized models
+                I have studied Artificial Intelligence and Machine Learning
+                in-depth, and I use AI models to solve real-world problems by
+                developing intuitive and optimized solutions.
               </p>
             </div>
           </li>

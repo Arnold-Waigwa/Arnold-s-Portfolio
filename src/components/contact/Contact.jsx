@@ -10,11 +10,11 @@ const Contact = () => {
         <p>Feel free to reach out</p>
       </div>
       <ul className={styles.links}>
-        <li className={styles.link}>
+        <li className={styles.link2}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="email Icon" />
           <a href="mailto:waigwaarnold@gmail.com">waigwaarnold@gmail.com</a>
         </li>
-        <li className={styles.link}>
+        <li className={styles.link2}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="Linkedin Icon"
@@ -23,7 +23,7 @@ const Contact = () => {
             linkedin.com/Arnold Waigwa
           </a>
         </li>
-        <li className={styles.link}>
+        <li className={styles.link2}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github Icon" />
           <a href="https://github.com/Arnold-Waigwa">
             github.com/Arnold Waigwa
