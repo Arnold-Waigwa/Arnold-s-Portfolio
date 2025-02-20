@@ -1,10 +1,13 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Software Engineering Intern",
+    "organisation": "Black and Rossi",
+    "startDate": "May, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": [
+      "Collaborated on developing a logistics resource generator optimizing distance, time, and cost calculations based on user inputs.",
+      "Utilized Django Rest Framework, Google APIs, and frontend technologies (JavaScript, HTML, CSS, Bootstrap) to improve speed by 90% and volume efficiency by 80%; managed MySQL database and integrated AWS for cloud deployment."
+    ],
     "imageSrc": "history/google.png"
   },
   {
