@@ -8,25 +8,17 @@
       "Collaborated on developing a logistics resource generator optimizing distance, time, and cost calculations based on user inputs.",
       "Utilized Django Rest Framework, Google APIs, and frontend technologies (JavaScript, HTML, CSS, Bootstrap) to improve speed by 90% and volume efficiency by 80%; managed MySQL database and integrated AWS for cloud deployment."
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/blackandrossilogo.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "IT Specialist",
+    "organisation": "Albion College",
+    "startDate": "Aug, 2023",
+    "endDate": "Apr, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Resolved 100+ server and user issues onsite and remotely, ensuring system efficiency and productivity.",
+      "Set up workstations, imaged devices, and configured print servers to support 100+ users, streamlining workflow."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/albioncollegelogo.png"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Chatbot for Albion College",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "AI chatbot assisting Albion College students with admissions, campus resources, and college life using NLP and the Eliza framework..",
+    "skills": ["python", "numPy", "OOP"],
+    "demo": "https://github.com/Arnold-Waigwa/Albion-Admissions-Chatbot",
+    "source": "https://github.com/Arnold-Waigwa/Albion-Admissions-Chatbot"
   },
   {
-    "title": "Project B",
+    "title": "Boxing & MMA Fan Chat Room",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A chat room web app for boxing and MMA fans to create posts, share content, comment, upvote, and interact with others.",
+    "skills": ["React", "Express", "Node", "Supabase"],
+    "demo": "https://github.com/Arnold-Waigwa/Boxing-Yaks",
+    "source": "https://github.com/Arnold-Waigwa/Boxing-Yaks"
   },
   {
-    "title": "Project C",
+    "title": "Task Prioritization and Scheduling Tool",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Efficiently manage tasks and optimize your schedule using a Greedy Algorithm and an intuitive GUI",
+    "skills": ["Python", "tkinter", "Git"],
+    "demo": "https://github.com/Arnold-Waigwa/Priority-Calender",
+    "source": "https://github.com/Arnold-Waigwa/Priority-Calender"
   }
 ]
