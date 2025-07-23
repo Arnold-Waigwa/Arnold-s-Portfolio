@@ -9,12 +9,12 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Arnold,</h1>
         <p className={styles.description}>
           A passionate Software Engineer and Computer Science major at Albion
-          College, graduating in May 2026. With a focus on Fullstack Software
-          Development, Artificial Intelligence, and Machine Learning, I love
-          building impactful tech solutions and contributing to the open-source
-          community. I am also minoring in Applied Mathematics, which helps me
-          bring a solid analytical approach to every problem I tackle. Reach out
-          if you'd like to know more.
+          College, graduating in December 2026. With a focus on Fullstack
+          Software Development, Artificial Intelligence, and Machine Learning, I
+          love building impactful tech solutions and contributing to the
+          open-source community. I am also minoring in Applied Mathematics,
+          which helps me bring a solid analytical approach to every problem I
+          tackle. Reach out if you'd like to know more.
         </p>
         <a href="mailto:waigwaarnold@gmail.com" className={styles.contactBtn}>
           Contact Me
