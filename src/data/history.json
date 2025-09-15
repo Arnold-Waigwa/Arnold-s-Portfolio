@@ -5,8 +5,8 @@
     "startDate": "May, 2024",
     "endDate": "Present",
     "experiences": [
-      "Collaborated on developing a logistics resource generator optimizing distance, time, and cost calculations based on user inputs.",
-      "Utilized Django Rest Framework, Google APIs, and frontend technologies (JavaScript, HTML, CSS, Bootstrap) to improve speed by 90% and volume efficiency by 80%; managed MySQL database and integrated AWS for cloud deployment."
+      "Developed a logistics web application for deployed military units that optimized supply routes based on multiple factors, reducing resource location time by 90% and boosting replenishment efficiency by 80%.",
+      "Designed and deployed a scalable RESTful API with Django Rest Framework, managed real-time logistics data using MySQL, and ensured reliable cloud performance and security via AWS Elastic Beanstalk and EC2, all integrated into a responsive frontend for intuitive field use."
     ],
     "imageSrc": "history/blackandrossilogo.png"
   },
