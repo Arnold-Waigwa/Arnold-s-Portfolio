@@ -2,22 +2,34 @@
   {
     "role": "Software Engineering Intern",
     "organisation": "Black and Rossi",
-    "startDate": "May, 2024",
-    "endDate": "Present",
+    "startDate": "May 2025",
+    "endDate": "Dec 2025",
     "experiences": [
-      "Developed a logistics web application for deployed military units that optimized supply routes based on multiple factors, reducing resource location time by 90% and boosting replenishment efficiency by 80%.",
-      "Designed and deployed a scalable RESTful API with Django Rest Framework, managed real-time logistics data using MySQL, and ensured reliable cloud performance and security via AWS Elastic Beanstalk and EC2, all integrated into a responsive frontend for intuitive field use."
+      "Built an AWS-hosted logistics app that helped military units find resources 90% faster and improved replenishment efficiency by 85%.",
+      "Developed Django REST Framework APIs and MySQL data workflows for real-time logistics, working with a 13-person engineering team.",
+      "Automated EC2 deployments with GitHub Actions, separate staging and production environments, and unit and integration test gates, supporting 99.9% availability."
     ],
     "imageSrc": "history/blackandrossilogo.png"
   },
   {
-    "role": "IT Specialist",
-    "organisation": "Albion College",
-    "startDate": "Aug, 2023",
-    "endDate": "Apr, 2024",
+    "role": "IT Systems Engineer",
+    "organisation": "Albion College IT Department",
+    "startDate": "Aug 2023",
+    "endDate": "Apr 2024",
     "experiences": [
-      "Resolved 100+ server and user issues onsite and remotely, ensuring system efficiency and productivity.",
-      "Set up workstations, imaged devices, and configured print servers to support 100+ users, streamlining workflow."
+      "Kept campus IT running for 100+ users through device provisioning, OS imaging, and print server configuration, standardizing setup to save time.",
+      "Resolved 100+ technical incidents across servers, networks, access management, and hardware, helping users get back to work with less downtime."
+    ],
+    "imageSrc": "history/albioncollegelogo.png"
+  },
+  {
+    "role": "Software Engineering Tutor",
+    "organisation": "Albion College Computer Science Department",
+    "startDate": "Aug 2023",
+    "endDate": "May 2024",
+    "experiences": [
+      "Helped 30+ students build confidence in Java, data structures, and algorithms through office hours and one-on-one debugging, contributing to a 75% improvement in class performance.",
+      "Broke down recursion, tree traversals, and dynamic programming into clear explanations tailored to where students were getting stuck."
     ],
     "imageSrc": "history/albioncollegelogo.png"
   }

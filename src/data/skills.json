@@ -1,38 +1,38 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Django",
+    "imageSrc": "skills/django.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "FastAPI",
+    "imageSrc": "skills/fastapi.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node",
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Redis",
+    "imageSrc": "skills/redis.png"
   },
   {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
   {
-    "title": "Java",
-    "imageSrc": "skills/java.png"
-  },
-  {
-    "title": "Django",
-    "imageSrc": "skills/django.png"
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "AWS",
-    "imageSrc": "skills/AWS.png"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/JavaScript.png"
+    "imageSrc": "skills/aws-cloud.png"
   }
 ]

@@ -27,6 +27,8 @@
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+  align-content: space-between;
+  align-items: flex-start;
 }
 
 .skill {
@@ -34,6 +36,7 @@
   flex-direction: column;
   align-items: center;
   gap: 11px;
+  width: 120px;
 }
 
 .skillImageContainer {
@@ -48,6 +51,12 @@
 
 .skillImageContainer img {
   width: 75px;
+  height: 75px;
+  object-fit: contain;
+}
+
+.skillImageContainer img[src$="/django.png"] {
+  filter: brightness(0) invert(1);
 }
 
 .skill p {
