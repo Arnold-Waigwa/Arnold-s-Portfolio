@@ -1,17 +1,28 @@
 [
   {
-    "title": "Chatbot for Albion College",
+    "title": "BritRide: Campus Ride Sharing",
     "imageSrc": "projects/project.png",
-    "description": "AI chatbot assisting Albion College students with admissions, campus resources, and college life using NLP and the Eliza framework..",
-    "skills": ["python", "numPy", "OOP"],
-    "demo": "https://github.com/Arnold-Waigwa/Albion-Admissions-Chatbot",
-    "source": "https://github.com/Arnold-Waigwa/Albion-Admissions-Chatbot"
+    "description": "A campus ride-sharing marketplace serving 100+ users. I built real-time booking, secure campus-only sign-in, and a PostgreSQL backend, then deployed it with Docker and automated CI/CD.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Prisma",
+      "Docker"
+    ],
+    "demo": "https://britride.one/",
+    "source": "https://github.com/Arnold-Waigwa/britride"
   },
   {
     "title": "Boxing & MMA Fan Chat Room",
     "imageSrc": "projects/project.png",
     "description": "A chat room web app for boxing and MMA fans to create posts, share content, comment, upvote, and interact with others.",
-    "skills": ["React", "Express", "Node", "Supabase"],
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Supabase"
+    ],
     "demo": "https://github.com/Arnold-Waigwa/Boxing-Yaks",
     "source": "https://github.com/Arnold-Waigwa/Boxing-Yaks"
   },
@@ -19,7 +30,11 @@
     "title": "Task Prioritization and Scheduling Tool",
     "imageSrc": "projects/project.png",
     "description": "Efficiently manage tasks and optimize your schedule using a Greedy Algorithm and an intuitive GUI",
-    "skills": ["Python", "tkinter", "Git"],
+    "skills": [
+      "Python",
+      "tkinter",
+      "Git"
+    ],
     "demo": "https://github.com/Arnold-Waigwa/Priority-Calender",
     "source": "https://github.com/Arnold-Waigwa/Priority-Calender"
   }
